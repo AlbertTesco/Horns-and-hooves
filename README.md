@@ -21,10 +21,3 @@ docker-compose up --build
 ```
 
 3. Проект использует Nginx и все эндпоинты доступны на http://localhost:80# Horns-and-hooves
-# Horns-and-hooves
-# Horns-and-hooves
-# Horns-and-hooves
-# Horns-and-hooves
-# Horns-and-hooves
-# Horns-and-hooves
-# Horns-and-hooves
